@@ -16,7 +16,7 @@ func main() {
 		os.Stdout.WriteString(`Transform json string to yaml string without the type infomation.
 Usage:
 echo '{"a": 1}' | json2yaml
-json2yaml < 1.yml > 2.json
+json2yaml < 1.json > 2.yaml
 `)
 		os.Exit(1)
 		return

@@ -15,8 +15,8 @@ Binary installation and usage
 * Use `chmod +x /usr/local/bin/json2yaml` give running permission to it.
 
 ### mac/linux usage
-* `echo "a: 1" | json2yaml`
-* `json2yaml < 1.yml > 2.json`
+* `echo '{"a": 1}' | json2yaml`
+* `json2yaml < 1.json > 2.yaml`
 
 ### window usage
 * windows 7 cmd.exe:
