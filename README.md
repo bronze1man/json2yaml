@@ -69,4 +69,4 @@ Reference
 ====================
 * https://github.com/peter-edge/go-json2yaml
 * https://github.com/go-yaml/yaml
-* https://github.com/bronze1man/json2yaml
+* https://github.com/bronze1man/yaml2json
